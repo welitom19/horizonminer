@@ -58,4 +58,3 @@ document.addEventListener("DOMContentLoaded", () => {
     document.getElementById('startButton').addEventListener('click', startMining);
     document.getElementById('accelerateButton').addEventListener('click', accelerateMining);
 });
-
