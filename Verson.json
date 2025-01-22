@@ -1,4 +1,9 @@
 {
+  "rewrites": [
+    { "source": "/", "destination": "/public/Index.html" }
+  ]
+}
+{
   "version": 2,
   "builds": [
     {
